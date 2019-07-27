@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>DialogAddPerson</class>
+ <widget class="QDialog" name="DialogAddPerson">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>502</width>
+    <height>565</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Agregar Cliente</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>../icono.png</normaloff>../icono.png</iconset>
+  </property>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
